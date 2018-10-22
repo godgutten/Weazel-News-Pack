@@ -25,6 +25,29 @@
 			<sirenSettings value="0" />
 		</Item>
 		<Item>
+			<modelName>newsmav2</modelName>
+			<colors>
+				<Item>
+					<indices content="char_array">
+						<Item value="134" />
+						<Item value="134" />
+						<Item value="111" />
+						<Item value="156" />
+					</indices>
+					<liveries />
+				</Item>
+			</colors>
+			<kits>
+				<Item>1000_newsmav2_modkit</Item>
+			</kits>
+			<windowsWithExposedEdges />
+			<plateProbabilities>
+				<Probabilities />
+			</plateProbabilities>
+			<lightSettings value="1000" />
+			<sirenSettings value="0" />
+		</Item>		
+		<Item>
 			<modelName>newsvan</modelName>
 			<colors>
 				<Item>
