@@ -123,8 +123,8 @@
 			</firstPersonDrivebyData>
 		</Item>
 		<Item>
-			<modelName>newsmav</modelName>
-			<txdName>newsmav</txdName>
+			<modelName>newsheli</modelName>
+			<txdName>newsheli</txdName>
 			<handlingId>POLMAV</handlingId>
 			<gameName>MAVERICK</gameName>
 			<vehicleMakeName />
@@ -245,10 +245,10 @@
 			<lockOnPositionOffset x="0.000000" y="0.600000" z="-0.100000" />
 		</Item>
 		<Item>
-			<modelName>newsmav2</modelName>
-			<txdName>newsmav2</txdName>
-			<handlingId>SUPERVOLITO</handlingId>
-			<gameName>MAVERICK</gameName>
+			<modelName>newsheli2</modelName>
+			<txdName>newsheli2</txdName>
+			<handlingId>POLMAV</handlingId>
+			<gameName>newsheli2</gameName>
 			<vehicleMakeName />
 			<expressionDictName>null</expressionDictName>
 			<expressionName>null</expressionName>

@@ -2,7 +2,7 @@
 <CVehicleModelInfoVariation>
 	<variationData>
 		<Item>
-			<modelName>newsmav</modelName>
+			<modelName>newsheli</modelName>
 			<colors>
 				<Item>
 					<indices content="char_array">
@@ -15,7 +15,7 @@
 				</Item>
 			</colors>
 			<kits>
-				<Item>1000_newsmav_modkit</Item>
+				<Item>1000_newsheli_modkit</Item>
 			</kits>
 			<windowsWithExposedEdges />
 			<plateProbabilities>
@@ -25,7 +25,7 @@
 			<sirenSettings value="0" />
 		</Item>
 		<Item>
-			<modelName>newsmav2</modelName>
+			<modelName>newsheli2</modelName>
 			<colors>
 				<Item>
 					<indices content="char_array">
@@ -38,7 +38,7 @@
 				</Item>
 			</colors>
 			<kits>
-				<Item>1000_newsmav2_modkit</Item>
+				<Item>1000_newsheli2_modkit</Item>
 			</kits>
 			<windowsWithExposedEdges />
 			<plateProbabilities>
